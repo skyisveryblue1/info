@@ -1,6 +1,6 @@
 # info
 
-## protectedtext
+## PT
 - vatan001
 - bluesky20150706
 
