@@ -1,5 +1,5 @@
 # info
 
 ## protectedtext
-vatan001
-bluesky20150706
+- vatan001
+- bluesky20150706
