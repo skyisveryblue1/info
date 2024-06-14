@@ -1,6 +1,6 @@
 # info
 
 ## PT
-- vatan001
-- bluesky20150706
+- vatan001 mc***********
+- bluesky20150706 : 1983****
 
